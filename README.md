@@ -5,13 +5,13 @@ Oxocarbon port for replit.com
 This is a port of the [Oxocarbon](https://github.com/nyoom-engineering/oxocarbon) colorscheme made by [Nyoom Engineering](https://github.com/nyoom-engineering) to [replit](https://replit.com), a software development & deployment platform for building, sharing, and shipping software.
 
 ## How to use
-To use this theme, you can click on the links below and click on the "Use theme" button below the theme's name.
+You can click on the images below to pick the theme you wanna use. Then click on the "Use theme" button below the theme's name.
 
 <a href="https://replit.com/theme/@xStormyy/oxocarbon-dark">
-  <img src=""></img>
+  <img src="images/dark_mode_screenshot.jpg"></img>
 </a>
 <a href="https://replit.com/theme/@xStormyy/oxocarbon-light">
-  <img src=""></img>
+  <img src="images/light_mode_screenshot.jpg"></img>
 </a>
 
 
