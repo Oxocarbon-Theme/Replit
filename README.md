@@ -7,10 +7,10 @@ This is a port of the [Oxocarbon](https://github.com/nyoom-engineering/oxocarbon
 ## How to use
 You can click on the images below to pick the theme you wanna use. Then click on the "Use theme" button below the theme's name.
 
-<a href="https://replit.com/theme/@xStormyy/oxocarbon-dark">
+<a target="_blank" href="https://replit.com/theme/@xStormyy/oxocarbon-dark">
   <img src="images/dark_mode_screenshot.jpg"></img>
 </a>
-<a href="https://replit.com/theme/@xStormyy/oxocarbon-light">
+<a target="_blank" href="https://replit.com/theme/@xStormyy/oxocarbon-light">
   <img src="images/light_mode_screenshot.jpg"></img>
 </a>
 
